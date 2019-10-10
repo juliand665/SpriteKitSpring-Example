@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SpriteKitSpring",
+        "repositoryURL": "git@github.com:juliand665/SpriteKitSpring.git",
+        "state": {
+          "branch": "master",
+          "revision": "f8321042f009ce2d8c864bc38e48890423d48aa7",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
